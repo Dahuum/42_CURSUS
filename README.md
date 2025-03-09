@@ -1,5 +1,6 @@
 # 👩‍💻 **42-Cursus 🚀**
-All my 42Network projects from 1337 Benguerir.## 📊 **My Progress**
+All my 42Network projects from 1337 Benguerir.
+## 📊 **My Progress**
 | 🔄 **Circle** | 📂 **Project** | 💻 **Language** | 📝 **Description** | 🌟 **Score** |
 |:------------:|:---------------:|:---------------:|:------------------:|:------------:|
 | 00 📘 | [Libft](https://github.com/Dahuum/42_CURSUS/tree/main/libft) | C | C library for 42 projects | 💯 125% |
