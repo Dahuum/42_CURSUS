@@ -1,4 +1,4 @@
-# 42 Cursus 🚀
+# 42 Cursus 
 
 All my 42Network projects from 1337 Benguerir.
 
