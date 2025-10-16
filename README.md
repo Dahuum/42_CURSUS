@@ -1,8 +1,6 @@
-# 42 Cursus 
+# 42 Cursus
 
 All my 42Network projects from 1337 Benguerir.
-
-## My Progress
 
 | Circle | Project | Language | Description | Score |
 |--------|---------|----------|-------------|-------|
@@ -27,4 +25,4 @@ All my 42Network projects from 1337 Benguerir.
 | 18 | [ft_transcendence](https://github.com/Dahuum/NeoGeo) | Web Dev | Pong game web application | 125% |
 | 19 | [Exam 06](https://github.com/Dahuum/42_EXAM/tree/main/.subjects/STUD_PART/exam_06) | C++ | Network programming | TBD |
 
-Keep shining and coding! ✨💻✨
+Keep shining and coding! ✨
