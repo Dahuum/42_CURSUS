@@ -21,7 +21,7 @@ All my 42Network projects from 1337 Benguerir.
 | 15 🌐 | [Webserv](https://github.com/Dahuum/CraftHTTP) | C++ | HTTP server implementation | 💯 125% |
 | 16 🐳 | [Inception](https://github.com/Dahuum/Docker-Inception) | Docker | System administration with Docker | 💯 120% |
 | 17 📚 | [EXAM-05](https://github.com/Dahuum/42_EXAM/tree/main/.subjects/STUD_PART/exam_05) | C++ | C++ modules and practice | 💯 TBD% |
-| 18 🏓 | [ft_transcendence](https://github.com/Dahuum/ft_transcendence) | Web Development | Pong game web application | 💯 TBD% |
+| 18 🏓 | [ft_transcendence](https://github.com/Dahuum/NeoGeo) | Web Development | Pong game web application | 💯 TBD% |
 | 19 📚 | [EXAM-06](https://github.com/Dahuum/42_EXAM/tree/main/.subjects/STUD_PART/exam_06) | C | Network programming | 💯 TBD% |
 
 Keep shining and coding.! ✨💻✨
