@@ -12,7 +12,7 @@ All my 42Network projects from 1337 Benguerir.
 | 05 | [So Long](https://github.com/Dahuum/42_CURSUS/tree/main/So_Long) | C | 2D game development | 125% |
 | 06 | [Pipex](https://github.com/Dahuum/42_CURSUS/tree/main/PiPex) | C | Shell pipe emulation | 125% |
 | 07 | [Push Swap](https://github.com/Dahuum/42_CURSUS/tree/main/push_swap) | C | Sorting algorithm optimization | 125% |
-| 08 | [Philosophers](https://github.com/Dahuum/Philosophers) | C | Dining Philosophers problem | 100% |
+| 08 | [Philosophers](https://github.com/Dahuum/Dining-Philosophers-Problem) | C | Dining Philosophers problem | 100% |
 | 09 | [TinyShell](https://github.com/Dahuum/TinyShell) | C | Unix shell implementation | 100% |
 | 10 | [Exam 03](https://github.com/Dahuum/42_EXAM/tree/main/.subjects/STUD_PART/exam_03) | C | Advanced exam challenge | 100% |
 | 11 | [miniRT](https://github.com/Dahuum/MiniRayX) | C | Ray tracer with Minilibx | 100% |
